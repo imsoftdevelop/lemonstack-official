@@ -1,0 +1,136 @@
+/*---Edit CSS for theme Check DO NOT Change **By: Rashid**-----*/
+/*
+
+/*Error Section*/
+
+.error-section {
+    text-align: center !important;
+}
+
+.error-section{
+	position: relative;
+    display: block;
+    background: #fff;
+    padding: 145px 0 150px;
+    text-align: center !important;
+}
+
+.error-section .content {
+	position:relative;
+}
+
+.error-section h1{
+	position:relative;
+	color:#f13729;
+	font-size:200px;
+	font-weight:800;
+	line-height:1em;
+	margin-bottom:20px;
+
+}
+
+.error-section h2 {
+    position: relative;
+    display: block;
+    color: #686868;
+    font-size: 42px;
+    line-height: 40px;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin: 13px 0 14px;
+}
+
+.error-section .text{
+    font-size: 18px;
+    line-height: 28px;
+    margin: 0 0 32px;
+}
+
+.error-section .theme-btn{
+width: 270px;
+	
+
+}
+/*Error Section*/
+
+ h4.er_the_title{
+    color: #fff;
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+.error_text2{
+    margin-bottom: 20px;
+    color: #fff;
+}
+.sr_title{
+    font-size: 25px;
+    margin-bottom: 20px;
+    color: #000;
+    font-weight: 600;
+}
+.search_text p{
+    font-size: 17px;
+    color: #414141;
+    font-weight: 500;
+}
+.search_text{
+    font-size: 17px;
+    color:#414141;
+    font-weight: 500;
+}
+.search_page_btn a{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+/*Menu on Right Side */
+
+/* Hide 4th Level Menu */
+.main-menu .navigation > li > ul > li ul ul {
+    display: none !important;
+}
+/* recent Comment */
+.recentcomments a {
+    display: inline !important;
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+ul.info-list li{
+    list-style-type: none;
+    display: list-item;
+    border-right: none;
+}
+.search_area_df{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+
+
+.search_area_df .searcg_img img{
+    margin-top: -35px;
+}
+
+
+.shop-section .shop-item .inner-box {}
+.shop-section .shop-item .inner-box .lower-content {}
+.shop-section .shop-item .inner-box .lower-content:before {}
+.shop-section .shop-item .inner-box .lower-content h3 {}
+.shop-section .shop-item .inner-box .lower-content h3 a {}
+.shop-section .page-numbers.current {}
+.shop-section .page-numbers li span.current {}
+
+
+#text-4 img {
+    width: 100% !important;
+}
+.kuk {
+    padding-top: 100px;
+}
+.kuk .sec-title {
+    padding-bottom: 0px;
+}
+#blog-area.mm {
+    padding-top: 50px;
+}

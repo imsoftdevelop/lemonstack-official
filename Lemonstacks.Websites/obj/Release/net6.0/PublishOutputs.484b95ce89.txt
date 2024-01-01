@@ -1,0 +1,7 @@
+E:\IM-Soft\_Lemon Stack Source Code\Lemonstack_Officials\Lemonstacks.Websites\obj\Release\net6.0\PubTmp\Out\Lemonstacks.Websites.exe
+E:\IM-Soft\_Lemon Stack Source Code\Lemonstack_Officials\Lemonstacks.Websites\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+E:\IM-Soft\_Lemon Stack Source Code\Lemonstack_Officials\Lemonstacks.Websites\obj\Release\net6.0\PubTmp\Out\appsettings.json
+E:\IM-Soft\_Lemon Stack Source Code\Lemonstack_Officials\Lemonstacks.Websites\obj\Release\net6.0\PubTmp\Out\Lemonstacks.Websites.dll
+E:\IM-Soft\_Lemon Stack Source Code\Lemonstack_Officials\Lemonstacks.Websites\obj\Release\net6.0\PubTmp\Out\Lemonstacks.Websites.deps.json
+E:\IM-Soft\_Lemon Stack Source Code\Lemonstack_Officials\Lemonstacks.Websites\obj\Release\net6.0\PubTmp\Out\Lemonstacks.Websites.runtimeconfig.json
+E:\IM-Soft\_Lemon Stack Source Code\Lemonstack_Officials\Lemonstacks.Websites\obj\Release\net6.0\PubTmp\Out\Lemonstacks.Websites.pdb

@@ -1,0 +1,90 @@
+.wp-block-gallery{
+	padding-left:0px !important;
+}
+.wp-block-gallery li{
+	list-style:none !important;
+}
+
+/************Color Pallete*****************/
+.has-strong-blue-background-color{
+	background-color:#5229f1!important;
+}
+.has-strong-mezenda-background-color{
+	background-color:#ca29f1!important;
+}
+.has-strong-red-background-color{
+	background-color:#e30606!important;
+}
+.has-strong-green-background-color{
+	background-color:#06e329!important;
+}
+.has-strong-yellow-background-color{
+	background-color:#f7bd00 !important;
+}
+.has-strong-white-background-color{
+	background-color:#ffffff !important;
+}
+.has-light-black-background-color{
+	background-color:#242424 !important;
+}
+.has-very-light-gray-background-color{
+	background-color:#797979 !important;
+}
+.has-very-dark-black-background-color{
+	background-color:#000000 !important;
+}
+
+.has-strong-blue-color{
+	color:#5229f1!important;
+}
+.has-strong-mezenda-color{
+	color:#ca29f1!important;
+}
+
+.has-strong-yellow-color{
+	color:#f7bd00 !important;
+}
+.has-strong-red-color{
+	color:#e30606!important;
+}
+.has-strong-green-color{
+	color:#06e329!important;
+}
+.has-strong-white-color{
+	color:#ffffff !important;
+}
+.has-light-black-color{
+	color:#242424 !important;
+}
+.has-very-light-gray-color{
+	color:#797979 !important;
+}
+.has-very-dark-black-color{
+	color:#000000 !important;
+}
+
+/******************Font Size Setting*****************/
+.has-small-font-size{
+	font-size:10px !important;
+}
+.has-normal-font-size{
+	font-size:15px !important;
+}
+.has-large-font-size{
+	font-size:24px !important;
+}
+.has-huge-font-size{
+	font-size:36px !important;
+}
+.alignwide {
+    margin-left: calc(25% - 25vw);
+    margin-right: calc(25% - 25vw);
+    width: auto;
+    max-width: 1000%;
+}
+.alignfull {
+    margin-left: calc(50% - 50vw);
+    margin-right: calc(50% - 50vw);
+    width: auto;
+    max-width: 1000%;
+}
